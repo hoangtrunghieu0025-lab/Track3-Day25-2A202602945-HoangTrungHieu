@@ -1,6 +1,10 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Hoàng Trung Hiếu (MSV: 2A202602945)  **Commit:** `ef4b253`  **Điểm tự động (`make grade`):** 84.0 / 88 (96.0 / 100 kể cả bộ dữ liệu ẩn)
+**Họ tên / nhóm:** Hoàng Trung Hiếu  
+**MSV:** 2A202602945  
+**Repo URL:** https://github.com/hoangtrunghieu0025-lab/Track3-Day25-2A202602945-HoangTrungHieu  
+**Commit:** `548dea7`  
+**Điểm tự động (`make grade`):** 84.0 / 88 (96.0 / 100 kể cả bộ dữ liệu ẩn)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
